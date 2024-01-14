@@ -8,5 +8,6 @@ namespace PROYECTOGIT01_2024
 {
     internal class Class2
     {
+       
     }
 }
